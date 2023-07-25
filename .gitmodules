@@ -1,0 +1,4 @@
+[submodule "DaisyRec"]
+	path = DaisyRec-v2.0
+	url = https://github.com/FrankYuchen/DaisyRec-v2.0.git
+	branch = yitong
