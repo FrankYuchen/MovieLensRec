@@ -2,3 +2,7 @@
 	path = DaisyRec-v2.0
 	url = https://github.com/FrankYuchen/DaisyRec-v2.0.git
 	branch = yitong
+[submodule "SASrec.pytorch"]
+	path = SASrec.pytorch
+	url = https://github.com/FrankYuchen/SASRec.pytorch.git
+	branch = yuchen
